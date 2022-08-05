@@ -11,3 +11,4 @@ function renderPosts(boston, container) {
   // Hint: you can use the container parameter's innerHTML property to insert Html tags
 }
 renderPosts(boston, document.getElementById('container'));
+console.log("hi");
